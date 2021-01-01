@@ -3,5 +3,6 @@
 3. Nozzle 			-		AED 	 20.00
 4. Extruder Metallic		-		AED	 76.00
 5. Dual Extruder (USA)		-		AED	 80.00
+6. PTFE Tubes			-		AED	 40.00
 
-Total till date (17-12-20)	-		AED    1186.00
+Total till date (01-01-21)	-		AED    1226.00
