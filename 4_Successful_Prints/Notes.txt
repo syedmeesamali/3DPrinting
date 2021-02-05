@@ -3,3 +3,7 @@ All the red color prints were done using a "TOYBOX PLA filament".
 Print # 10 took 02:00:00	Hours
 Print # 11 took 10:15:50	Hours
 Print # 12 took 05:59:47	Hours
+
+
+From Print # 14 onwards all printed on new 
+"Artillery Sidewinder X1 V4"
